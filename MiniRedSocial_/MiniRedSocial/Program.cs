@@ -19,7 +19,7 @@ namespace MiniRedSocial
                 Console.WriteLine("1. Agregar Persona");
                 Console.WriteLine("2. Conecta Personas");
                 Console.WriteLine("3. ¿Son amigos?");
-                Console.WriteLine("4. Salir");
+                Console.WriteLine("4. Fin");
 
                 Console.Write("Digite el # de opción: ");
                 op = int.Parse(Console.ReadLine());
